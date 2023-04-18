@@ -46,6 +46,7 @@
 .task h3 {
   font-size: 18px;
   color: #c8781a;
+  /* @apply text-lg text-[#c8781a]; Tailwind.css stilleri istenirse bu alana @apply tagi ile ekelebilir*/
 }
 
 .task p {

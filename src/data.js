@@ -7,7 +7,7 @@ export const initialTasks = [
     description:
       "Bugün öğrendiklerimizden hangilerini projede kullanabiliriz, hangi kısımları mevcut bilgimizle yapabiliriz?",
     people: ["ömer", "emre"],
-    deadline: "2023-01-23",
+    deadline: "2023-04-18",
     status: "yapıldı",
   },
   {
@@ -16,7 +16,7 @@ export const initialTasks = [
     description:
       "Projede neler yapmamız gerekiyor? Aklımıza gelen her adımı yazalım.",
     people: ["ömer"],
-    deadline: "2023-01-25",
+    deadline: "2023-04-19",
     status: "yapılacak",
   },
   {
@@ -25,7 +25,7 @@ export const initialTasks = [
     description:
       "Hangi adımdan başlasak daha iyi olur? Yapılacakları doğru sıraya koymaya çalışmak da bize fikir verebilir.",
     people: ["emre"],
-    deadline: "2023-01-27",
+    deadline: "2023-04-22",
     status: "yapılacak",
   },
   {
@@ -34,7 +34,16 @@ export const initialTasks = [
     description:
       "Unutma, en iyi öğretmen tecrübedir. Çok takılmadığın sürece konu tekrarı yapma. Sadece takıldığın yerleri araştır.",
     people: ["ömer", "emre"],
-    deadline: "2023-01-31",
+    deadline: "2023-04-21",
+    status: "yapılacak",
+  },
+  {
+    id: 5,
+    title: "Date-FNS tarihini Boya",
+    description:
+      "Hangi adımdan başlasak daha iyi olur? Yapılacakları doğru sıraya koymaya çalışmak da bize fikir verebilir.",
+    people: ["gökhan"],
+    deadline: "2023-04-31",
     status: "yapılacak",
   },
 ];
